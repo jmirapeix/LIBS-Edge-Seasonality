@@ -1,0 +1,37 @@
+cff-version: 1.2.0
+message: "If you use this code or data, please cite the associated paper."
+title: "mtp: edge-referenced analysis of 2D LIBS Mg/Ca maps of limpet shells"
+version: "5.1"
+date-released: 2026-11-03
+license: MIT
+authors:
+  - family-names: Mirapeix
+    given-names: Jesús
+  - family-names: Arniz-Mateos
+    given-names: Rosa
+  - family-names: García-Escárzaga
+    given-names: Asier
+  - family-names: Gutiérrez-Zugasti
+    given-names: Igor
+  - family-names: López-Higuera
+    given-names: José Miguel
+  - family-names: Cobo
+    given-names: Adolfo
+preferred-citation:
+  type: article
+  title: "Edge-referenced analysis of 2D LIBS Mg/Ca maps for automated seasonality estimation in limpet shells"
+  authors:
+    - family-names: Mirapeix
+      given-names: Jesús
+    - family-names: Arniz-Mateos
+      given-names: Rosa
+    - family-names: García-Escárzaga
+      given-names: Asier
+    - family-names: Gutiérrez-Zugasti
+      given-names: Igor
+    - family-names: López-Higuera
+      given-names: José Miguel
+    - family-names: Cobo
+      given-names: Adolfo
+  journal: "(under review)"
+  year: 2026
